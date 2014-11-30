@@ -1,0 +1,11 @@
+9891f6cf-f8ee-477a-b4d4-02a6203dbf8f.war:
+/WEB-INF/
+/WEB-INF/lib/
+/WEB-INF/lib/arquillian-junit-container-1.1.5.Final.jar
+/WEB-INF/lib/junit-4.8.1.jar
+/WEB-INF/lib/shrinkwrap-resolver-impl-maven-archive-2.1.0.jar
+/WEB-INF/lib/wildfly-arquillian-container-remote-1.0.0.Alpha2.jar
+/WEB-INF/lib/arquillian-protocol-servlet-1.1.5.Final.jar
+INFO  [org.xnio] XNIO version 3.3.0.Beta2
+INFO  [org.xnio.nio] XNIO NIO Implementation Version 3.3.0.Beta2
+INFO  [org.jboss.remoting] JBoss Remoting version 4.0.5.Beta1
